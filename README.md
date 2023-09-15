@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CuraTor2027
 - 👀 I’m interested in Cybersecurity and Application Development
-- 🌱 I’m currently learning Computer Science at NJIT
+- 🌱 I’m currently studying Computer Science at NJIT
 
 
 <!---
