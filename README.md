@@ -5,5 +5,5 @@ My favorite video games are those in the Doom, Wargaming and Call of Duty franch
 
 Currently working on:
   - The Odin Project
-  - creating small Python games
+  - creating small games
   - learning CAD software(FreeCAD and OpenSCAD)
